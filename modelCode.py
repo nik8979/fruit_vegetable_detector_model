@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Gi-pQluFviUj-ZrM6V_l89Ltn6GVTZVK
 """
 
-from google.colab import drive
+from google.colab import drive 
 drive.mount('/content/drive')
 
 import numpy as np
