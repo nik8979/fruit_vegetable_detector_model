@@ -1,6 +1,6 @@
 # 🌱 Plant & Vegetable Detection using CNN  
 
-This project is a **deep learning-based plant and vegetable classification system** built using a **Convolutional Neural Network (CNN)**. The model is deployed using **Streamlit**, allowing users to upload images and receive real-time predictions.
+This project is a deep learning-based plant and vegetable classification system built using a **Convolutional Neural Network (CNN)**. The model is deployed using **Streamlit**, allowing users to upload images and receive real-time predictions.
 
 ## 🚀 Features
 - 📸 **Upload plant/vegetable images for classification**
@@ -15,5 +15,5 @@ This project is a **deep learning-based plant and vegetable classification syste
 - **Streamlit** – Web-based frontend  
 - **OpenCV/Pillow** – Image preprocessing  
 - **NumPy & Pandas** – Data handling  
-- **Matplotlib** – Visualization  
+- **Matplotlib** – visualization  
 
